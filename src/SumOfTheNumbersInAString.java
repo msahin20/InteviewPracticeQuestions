@@ -10,7 +10,6 @@ public class SumOfTheNumbersInAString {
                 ch = str.charAt(j);
                 if (Character.isDigit(ch)) {
                     strDigit += ch;
-
                 }
                 else {
                     break;
